@@ -1,11 +1,17 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+
 body {
     background: #a98467;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
 }
 
 nav {
     background: #6c584c;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
 }
