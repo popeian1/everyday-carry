@@ -32,6 +32,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
+tr {
+    padding: 10px 10px 10px 10px;
+}
+
 table, tr {
     margin: auto;
     border-bottom: 2px solid #f4f3ee;
