@@ -6,6 +6,7 @@
         font-size: 100%;
         vertical-align: baseline;
         background: transparent;
+        color: #dad3cc;
     }
 
 body {
@@ -14,7 +15,6 @@ body {
 
 nav {
     background: #0c0b0a;
-    color: #dad3cc;
     padding-top: 30px;
     padding-bottom: 30px;
 }
