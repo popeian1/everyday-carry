@@ -37,6 +37,7 @@ table {
 }
 
 table tbody tr td {
+    margin: auto;
     padding: auto;
 }
 
