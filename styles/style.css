@@ -13,7 +13,13 @@ body {
     background: #8a817c;
 }
 
-nav {
+h1 {
+    color: #f4f3ee;
+    font-size: 48px;
+    text-align: center;
+}
+
+#pagetitle {
     background: #463f3a;
     padding-top: 30px;
     padding-bottom: 30px;
