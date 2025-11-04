@@ -33,12 +33,12 @@ h1, h2, h3 {
 }
 
 table {
-    margin: auto 0 auto 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 table tbody tr td {
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
     padding: 15px 15px 15px 15px;
 }
 
