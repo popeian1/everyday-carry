@@ -4,7 +4,7 @@
         border: 0;
         outline: 0;
         font-family: 'Courier New', Courier, monospace;
-        font-size: 100%;
+        font-size: 24px;
         vertical-align: baseline;
         background: transparent;
         color: #f4f3ee;
@@ -14,7 +14,7 @@ body {
     background: #8a817c;
 }
 
-h1 {
+h1{
     font-size: 36px;
 }
 
@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 32px;
 }
 
 h1, h2, h3 {
