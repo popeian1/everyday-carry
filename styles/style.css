@@ -34,7 +34,7 @@ h1, h2, h3 {
 
 td, tr {
     margin: auto;
-    border: 2px solid #f4f3ee;
+    border-bottom: 2px solid #f4f3ee;
 }
 
 #pagetitle {
