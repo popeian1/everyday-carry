@@ -14,8 +14,14 @@ body {
 }
 
 h1 {
-    color: #f4f3ee;
     font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;;
+}
+
+h1 h2 {
     text-align: center;
 }
 
