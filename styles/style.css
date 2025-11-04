@@ -37,7 +37,8 @@ table {
 }
 
 table tbody tr td {
-    margin: 0 auto 0 auto;
+    margin-right: auto;
+    margin-left: auto;
     padding: 15px 15px 15px 15px;
 }
 
