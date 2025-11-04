@@ -33,7 +33,7 @@ h1, h2, h3 {
 }
 
 table {
-    margin: auto 0 auto 0;
+    margin: 0 auto 0 auto;
 }
 
 table tbody tr td {
