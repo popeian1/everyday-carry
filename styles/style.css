@@ -32,7 +32,11 @@ h1, h2, h3 {
     text-align: center;
 }
 
-td, tr {
+table {
+    border-top: 2px solid #f4f3ee;
+}
+
+tr {
     margin: auto;
     border-bottom: 2px solid #f4f3ee;
 }
