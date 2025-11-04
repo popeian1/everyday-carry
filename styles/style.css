@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Roboto';
+    font-family: Roboto;
     src: url("/fonts/Roboto-VariableFont.ttf") format("truetype");
 }
 
@@ -32,6 +32,7 @@ h3 {
 }
 
 h1, h2, h3 {
+    font-family: 'Roboto';
     font-weight: 600px;
     text-align: center;
 }
