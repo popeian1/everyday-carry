@@ -14,5 +14,6 @@ body {
 
 nav {
     background: #35312f;
-    padding
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
