@@ -9,11 +9,12 @@
     }
 
 body {
-    background: #77716d;
+    background: #413e3c;
 }
 
 nav {
-    background: #35312f;
+    background: #0c0b0a;
+    color: #dad3cc;
     padding-top: 30px;
     padding-bottom: 30px;
 }
