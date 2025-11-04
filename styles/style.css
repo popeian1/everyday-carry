@@ -33,7 +33,8 @@ h1, h2, h3 {
 }
 
 table, td {
-  border: 2px solid #f4f3ee;
+    margin: auto;
+    border: 2px solid #f4f3ee;
 }
 
 #pagetitle {
