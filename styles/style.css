@@ -33,11 +33,11 @@ h1, h2, h3 {
 }
 
 table tbody tr td {
+    margin: 0 auto 0 auto;
     padding: 15px 15px 15px 15px;
 }
 
-table, tr {
-    margin: auto;
+table tbody tr {
     border-bottom: 2px solid #f4f3ee;
 }
 
