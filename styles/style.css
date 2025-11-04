@@ -1,8 +1,14 @@
+@fontface {
+    font-family: 'Roboto';
+    src: url("/fonts/Roboto-VariableFont_wdth,wght.ttf")
+}
+
 * {
         margin: 0;
         padding: 0;
         border: 0;
         outline: 0;
+        font-family: 'Roboto';
         font-size: 100%;
         vertical-align: baseline;
         background: transparent;
