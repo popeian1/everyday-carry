@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig) {
     return `<div class="entryflex">
       <img class="entryimage" src="${image}" alt="${alt}">
       <p class="entryparagraph">${description}</p>
-    </div>`;
+    </div>
+    <nav><a href="../">Back</a></nav>`;
   });
 };
