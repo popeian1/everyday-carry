@@ -62,14 +62,15 @@ table, th, td {
     display: flex;
     flex-direction: row;
     margin: 0 7% 0 7%;
+    padding: 30px 0 30px 0;
 }
 
 .entryimage {
     max-width: 450px;
     max-height: 450px;
-    margin: 0 auto 0 30px;
+    margin: 0 auto 0 auto;
 }
 
 .entryparagraph {
-    
+    margin: 0 auto 0 auto;
 }
