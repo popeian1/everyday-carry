@@ -61,7 +61,7 @@ table, th, td {
     background: #463f3a;
     display: flex;
     flex-direction: row;
-    margin: 0 7% 0 7%;
+    margin: auto;
     padding: 30px 0 30px 0;
 }
 
