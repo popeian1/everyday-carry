@@ -61,13 +61,13 @@ table, th, td {
     background: #463f3a;
     display: flex;
     flex-direction: row;
-    margin: 0 15% 0 15%;
+    margin: 0 7% 0 7%;
 }
 
 .entryimage {
     max-width: 450px;
     max-height: 450px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto 0 30px;
 }
 
 .entryparagraph {
