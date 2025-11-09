@@ -61,6 +61,7 @@ table, th, td {
     background: #463f3a;
     display: flex;
     flex-direction: row;
+    margin: 0 15% 0 15%;
 }
 
 .entryimage {
