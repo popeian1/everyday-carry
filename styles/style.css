@@ -34,7 +34,9 @@ h1, h2, h3 {
 }
 
 nav {
-    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
 }
 
 table {
