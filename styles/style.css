@@ -68,9 +68,9 @@ table, th, td {
 .entryimage {
     max-width: 450px;
     max-height: 450px;
-    margin: 0 auto 0 auto;
+    margin: 30px;
 }
 
 .entryparagraph {
-    margin: auto 30px auto 30px;
+    margin: 30px;
 }
