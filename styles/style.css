@@ -72,5 +72,5 @@ table, th, td {
 }
 
 .entryparagraph {
-    margin: auto;
+    margin: auto 30px auto 30px;
 }
